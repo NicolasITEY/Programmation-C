@@ -1,0 +1,22 @@
+/home/chloe/Documents/School_stuff/gestion_projet/duplicate-detector/:
+total 48
+-rw-rw-r-- 1 chloe chloe  6180 Nov 25 22:33 README.md
+-rw-rw-r-- 1 chloe chloe    22 Nov 25 22:33 chloe.txt
+-rwxrwxr-x 1 chloe chloe 22144 Mar 26 17:29 duplicate-detector
+-rw-rw-r-- 1 chloe chloe    22 Nov 25 22:33 kamardine.txt
+-rw-rw-r-- 1 chloe chloe    22 Nov 25 22:33 nicolas.txt
+-rw-rw-r-- 1 chloe chloe     0 Mar 26 17:30 paths.txt
+drwxrwxr-x 2 chloe chloe  4096 Dec  8 17:21 src
+
+/home/chloe/Documents/School_stuff/gestion_projet/duplicate-detector/src:
+total 44
+-rw-rw-r-- 1 chloe chloe 1324 Nov 25 22:33 files_data.c
+-rw-rw-r-- 1 chloe chloe  328 Nov 25 22:33 files_data.h
+-rw-rw-r-- 1 chloe chloe 5340 Dec  8 17:21 interface.c
+-rw-rw-r-- 1 chloe chloe 4732 Dec  8 17:21 paths_fichiers.c
+-rw-rw-r-- 1 chloe chloe  451 Dec  8 17:21 paths_fichiers.h
+-rw-rw-r-- 1 chloe chloe 3827 Dec  8 17:21 sort_by_size.c
+-rw-rw-r-- 1 chloe chloe  619 Nov 25 22:33 sort_by_size.h
+-rw-rw-r-- 1 chloe chloe 1470 Dec  8 17:21 tableau_extensible.c
+-rw-rw-r-- 1 chloe chloe  481 Nov 25 22:33 tableau_extensible.h
+
